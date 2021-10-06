@@ -3,7 +3,7 @@
 ---
 
 
-- [x] echo 
+- [x] labstack/echo 
 - [x] redis
 
 ### Publish
