@@ -1,8 +1,6 @@
 # Redis Pub/Sub
 
 ---
-
-
 - [x] labstack/echo:v4
 - [x] redis
 
