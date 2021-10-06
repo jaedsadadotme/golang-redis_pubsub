@@ -2,6 +2,10 @@
 
 ---
 
+
+- [x] echo 
+- [x] redis
+
 ### Publish
 ```
 $ cd publish 
